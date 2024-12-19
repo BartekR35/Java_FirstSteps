@@ -1,6 +1,8 @@
 // Product net cost is 9.99. Tax is 23%. Multiply it by 10000 (like you sell it). Then count net cost of all.
 // Then do the same but with th Big Decimal class
 
+import java.math.BigDecimal;
+
 public class TaxCounting {
     public static void main(String[] args) {
 
@@ -16,10 +18,6 @@ public class TaxCounting {
         */
 
         // same with BigDecimal class
-
-
-
-
 
     }
 }
